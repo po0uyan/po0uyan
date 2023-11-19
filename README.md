@@ -1,5 +1,5 @@
 - Here we go!
-- for more information, check out [pouyan.me](https://pouyan.me)
+- For more information, check out [pouyan.me](https://pouyan.me).
 
 <!---
 po0uyan/po0uyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
